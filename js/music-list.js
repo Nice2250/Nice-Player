@@ -13,16 +13,16 @@ let allMusic = [
     src: "วันแรกของวันที่เหลือ"
 },
 {
-    name: "ึคั้นกู",
+    name: "คั่นกู",
     artist: "Beauz & Jvna",
     img: "คั้นกู",
-    src: "คั้นกู"
+    src: "คั่นกู"
 },
 {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
-    img: "music-4",
-    src: "music-4"
+    name: "Nighttime",
+    artist: "Ost.F4 Thailand : หัวใจรักสี่ดวงดาว",
+    img: "Nighttime",
+    src: "Nighttime"
 },
 {
     name: "Jim - Sun Goes Down",
