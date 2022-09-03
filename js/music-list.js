@@ -54,5 +54,11 @@ let allMusic = [
     img: "I DON'T MISS YOU",
     src: "I DON'T MISS YOU"
 },
+{
+    name: "You Right",
+    artist: "Doja Cat",
+    img: "You Right",
+    src: "You Right"
+},
 
 ];
