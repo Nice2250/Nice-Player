@@ -25,16 +25,34 @@ let allMusic = [
     src: "Nighttime"
 },
 {
-    name: "Jim - Sun Goes Down",
+    name: "กลางทาง (Our Way)",
     artist: "Jim Yosef x Roy",
-    img: "music-5",
-    src: "music-5"
+    img: "กลางทาง",
+    src: "กลางทาง"
 },
 {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
-    img: "music-6",
-    src: "music-6"
+    name: "ใกล้ (Close)",
+    artist: "Scrubb",
+    img: "ใกล้",
+    src: "ใกล้"
+},
+{
+    name: "ข้อยกเว้น (EXCEPTIONAL)",
+    artist: "4EVE",
+    img: "ข้อยกเว้น",
+    src: "ข้อยกเว้น"
+},
+{
+    name: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม",
+    artist: "PUIMEK",
+    img: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม",
+    src: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม"
+},
+{
+    name: "I DON'T MISS YOU",
+    artist: "TRINITY",
+    img: "I DON'T MISS YOU",
+    src: "I DON'T MISS YOU"
 },
 
 ];
