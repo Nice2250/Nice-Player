@@ -66,4 +66,10 @@ let allMusic = [
     img: "Suddenly",
     src: "Suddenly"
 },
+{
+    name: "On The Ground",
+    artist: "ROSÉ",
+    img: "On The Ground",
+    src: "On The Ground"
+},
 ];
