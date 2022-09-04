@@ -193,7 +193,7 @@ for (let i = 0; i < allMusic.length; i++) {
     let duration = liAudioTag.duration;
     let totalMin = Math.floor(duration / 60);
     let totalSec = Math.floor(duration % 60);
-    if(totalSec < 10){ //if sec is less than 10 then add 0 before it
+    if(totalSec < 5){ //if sec is less than 10 then add 0 before it
       totalSec = `0${totalSec}`;
     };
     liAudioDuartionTag.innerText = `${totalMin}:${totalSec}`; //passing total duation of song
