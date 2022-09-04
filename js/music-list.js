@@ -15,7 +15,7 @@ let allMusic = [
 {
     name: "คั่นกู",
     artist: "Beauz & Jvna",
-    img: "คั้นกู",
+    img: "คั่นกู",
     src: "คั่นกู"
 },
 {
@@ -59,6 +59,12 @@ let allMusic = [
     artist: "Doja Cat",
     img: "You Right",
     src: "You Right"
+},
+{
+    name: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม",
+    artist: "PUIMEK",
+    img: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม",
+    src: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม"
 },
 
 ];
