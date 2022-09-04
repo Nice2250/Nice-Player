@@ -174,4 +174,10 @@ let allMusic = [
     img: "แลกเลยปะ",
     src: "แลกเลยปะ"
 },
+{
+    name: "เกินต้าน (Too Cute)",
+    artist: "PiXXiE",
+    img: "เกินต้าน",
+    src: "เกินต้าน"
+},
 ];
