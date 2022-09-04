@@ -162,4 +162,16 @@ let allMusic = [
     img: "ไม่อยากฟัง",
     src: "ไม่อยากฟัง"
 },
+{
+    name: "ไม่อยากฟัง (I Don’t Want to Hear It) ",
+    artist: "BOXX MUSIC",
+    img: "ไม่อยากฟัง",
+    src: "ไม่อยากฟัง"
+},
+{
+    name: "แลกเลยปะ (Hoo Whee Hoo)",
+    artist: "Billkin x PP Krit x 4EVE",
+    img: "แลกเลยปะ",
+    src: "แลกเลยปะ"
+},
 ];
