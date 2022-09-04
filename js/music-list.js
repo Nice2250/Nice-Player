@@ -72,4 +72,88 @@ let allMusic = [
     img: "On The Ground",
     src: "On The Ground"
 },
+{
+    name: "มองกี่ทีก็น่ารัก",
+    artist: "นนน กรภัทร์",
+    img: "มองกี่ทีก็น่ารัก",
+    src: "มองกี่ทีก็น่ารัก"
+},
+{
+    name: "ถ้าเธอ",
+    artist: "Violette Wautier",
+    img: "ถ้าเธอ",
+    src: "ถ้าเธอ"
+},
+{
+    name: "ทักครับ",
+    artist: "GUYGEEGEE",
+    img: "ทักครับ",
+    src: "ทักครับ"
+},
+{
+    name: "Winter Falls",
+    artist: "Stray Kids",
+    img: "Winter Falls",
+    src: "Winter Falls"
+},
+{
+    name: "อยากถูกมองด้วยแววตาแบบนั้น",
+    artist: "อ้าย สรัลชนา (Aye Sarunchana) ",
+    img: "อยากถูกมองด้วยแววตาแบบนั้น",
+    src: "อยากถูกมองด้วยแววตาแบบนั้น"
+},
+{
+    name: "แฟนเก่าคนโปรด",
+    artist: "SLAPKISS",
+    img: "แฟนเก่าคนโปรด",
+    src: "แฟนเก่าคนโปรด"
+},
+{
+    name: "คิด(แต่ไม่)ถึง",
+    artist: "Tilly Birds",
+    img: "คิดแต่ไม่ถึง",
+    src: "คิดแต่ไม่ถึง"
+},
+{
+    name: "รักให้ถึงที่สุด",
+    artist: "O-Pavee",
+    img: "รักให้ถึงที่สุด",
+    src: "รักให้ถึงที่สุด"
+},
+{
+    name: "พูดว่ารักในใจ",
+    artist: "มุก วรนิษฐ์",
+    img: "พูดว่ารักในใจ",
+    src: "พูดว่ารักในใจ"
+},
+{
+    name: "Boyfriends",
+    artist: "Ariana Grande & Social House",
+    img: "Boyfriends",
+    src: "Boyfriends"
+},
+{
+    name: "How You Feel",
+    artist: "NuNew",
+    img: "How You Feel",
+    src: "How You Feel"
+},
+{
+    name: "น้ำลาย (Lie)",
+    artist: "PEARWAH",
+    img: "น้ำลาย",
+    src: "น้ำลาย"
+},
+{
+    name: "จำเลยรัก (Defendant Of Love)",
+    artist: "F.HERO & Ft. Txrbo",
+    img: "จำเลยรัก",
+    src: "จำเลยรัก"
+},
+{
+    name: "ท้องฟ้ากับแสงดาว (Star&Sky)",
+    artist: "หลุยส์ ธณวิน (Louis Thanawin)",
+    img: "ท้องฟ้ากับแสงดาว",
+    src: "ท้องฟ้ากับแสงดาว"
+},
 ];
