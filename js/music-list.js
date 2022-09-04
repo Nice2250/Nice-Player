@@ -49,10 +49,10 @@ let allMusic = [
     src: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม"
 },
 {
-    name: "I DON'T MISS YOU",
+    name: "I DONT MISS YOU",
     artist: "TRINITY",
-    img: "I DON'T MISS YOU",
-    src: "I DON'T MISS YOU"
+    img: "I DONT MISS YOU",
+    src: "I DONT MISS YOU"
 },
 {
     name: "You Right",
@@ -61,10 +61,9 @@ let allMusic = [
     src: "You Right"
 },
 {
-    name: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม",
-    artist: "PUIMEK",
-    img: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม",
-    src: "อย่าเพิ่งเริ่มถ้ายังไม่ลืม"
+    name: "เป็นไปได้ไหมเธอ (Suddenly)",
+    artist: "Tutor",
+    img: "Suddenly",
+    src: "Suddenly"
 },
-
 ];
