@@ -156,4 +156,10 @@ let allMusic = [
     img: "ท้องฟ้ากับแสงดาว",
     src: "ท้องฟ้ากับแสงดาว"
 },
+{
+    name: "ไม่อยากฟัง (I Don’t Want to Hear It) ",
+    artist: "BOXX MUSIC",
+    img: "ไม่อยากฟัง",
+    src: "ไม่อยากฟัง"
+},
 ];
