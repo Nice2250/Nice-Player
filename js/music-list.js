@@ -204,4 +204,10 @@ let allMusic = [
     img: "NOBODY",
     src: "NOBODY"
 },
+{
+    name: "วังวน (LOOP)",
+    artist: "ONEONE",
+    img: "วังวน",
+    src: "วังวน"
+},
 ];
