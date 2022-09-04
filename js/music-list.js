@@ -210,4 +210,16 @@ let allMusic = [
     img: "วังวน",
     src: "วังวน"
 },
+{
+    name: "NIGHT LIGHT",
+    artist: "NINE BY NINE",
+    img: "NIGHT LIGHT",
+    src: "NIGHT LIGHT"
+},
+{
+    name: "ฉันชอบฝนแต่เธอเป็นร่ม (Dry)",
+    artist: "Urworld",
+    img: "ฉันชอบฝนแต่เธอเป็นร่ม",
+    src: "ฉันชอบฝนแต่เธอเป็นร่ม"
+},
 ];

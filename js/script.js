@@ -11,6 +11,12 @@ progressBar = progressArea.querySelector(".progress-bar"),
 musicList = wrapper.querySelector(".music-list"),
 moreMusicBtn = wrapper.querySelector("#more-music"),
 closemoreMusic = musicList.querySelector("#close");
+console.log(allMusic.length)
+
+for (i = 0, len = allMusic.length, text = ""; i < len; i++) {
+  text += allMusic[i] + "<br>";
+}
+document.getElementById("Title").innerHTML = "Nice-Player have " + allMusic.length + " Song";
 
 let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
 isMusicPaused = true;
@@ -189,7 +195,7 @@ for (let i = 0; i < allMusic.length; i++) {
 
   let liAudioDuartionTag = ulTag.querySelector(`#${allMusic[i].src}`);
   let liAudioTag = ulTag.querySelector(`.${allMusic[i].src}`);
-  liAudioTag.addEventListener("loadeddata", ()=>{
+  liAudioTag.addEventListener("loadedata", ()=>{
     let duration = liAudioTag.duration;
     let totalMin = Math.floor(duration / 60);
     let totalSec = Math.floor(duration % 60);
