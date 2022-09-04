@@ -198,4 +198,10 @@ let allMusic = [
     img: "ภาวนา",
     src: "ภาวนา"
 },
+{
+    name: "NOBODY",
+    artist: "TRINITY",
+    img: "NOBODY",
+    src: "NOBODY"
+},
 ];
