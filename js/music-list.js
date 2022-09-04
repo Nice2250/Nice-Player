@@ -180,4 +180,10 @@ let allMusic = [
     img: "เกินต้าน",
     src: "เกินต้าน"
 },
+{
+    name: "คนเดียว (Alone)",
+    artist: "Nat Natasit",
+    img: "คนเดียว",
+    src: "คนเดียว"
+},
 ];
