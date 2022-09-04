@@ -222,4 +222,10 @@ let allMusic = [
     img: "ฉันชอบฝนแต่เธอเป็นร่ม",
     src: "ฉันชอบฝนแต่เธอเป็นร่ม"
 },
+{
+    name: "NOT ME",
+    artist: "KANGSOMKS",
+    img: "NOT ME",
+    src: "NOT ME"
+},
 ];
