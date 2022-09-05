@@ -228,4 +228,16 @@ let allMusic = [
     img: "NOT ME",
     src: "NOT ME"
 },
+{
+    name: "แล้วแต่ดาว (My Starlight)",
+    artist: "Joong Archen",
+    img: "แล้วแต่ดาว",
+    src: "แล้วแต่ดาว"
+},
+{
+    name: "NOT ME",
+    artist: "KANGSOMKS",
+    img: "NOT ME",
+    src: "NOT ME"
+},
 ];
