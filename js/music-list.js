@@ -246,4 +246,10 @@ let allMusic = [
     img: "อาหมวยหาย",
     src: "อาหมวยหาย"
 },
+{
+    name: "Best life",
+    artist: "BOYS OVER FLOWERS - Nani Hirunkit",
+    img: "Best life",
+    src: "Best life"
+},
 ];
