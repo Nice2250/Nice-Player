@@ -252,4 +252,22 @@ let allMusic = [
     img: "Best life",
     src: "Best life"
 },
+{
+    name: "Sunkissed",
+    artist: "Urworld",
+    img: "Sunkissed",
+    src: "Sunkissed"
+},
+{
+    name: "ตั้งแต่มีเธอฉันมีความสุข (This Time)",
+    artist: "Violette Wautier",
+    img: "ตั้งแต่มีเธอฉันมีความสุข",
+    src: "ตั้งแต่มีเธอฉันมีความสุข"
+},
+{
+    name: "วันเกิดฉันปีนี้ (HBD to me)",
+    artist: "Three Man Down",
+    img: "วันเกิดฉันปีนี้",
+    src: "วันเกิดฉันปีนี้"
+},
 ];
