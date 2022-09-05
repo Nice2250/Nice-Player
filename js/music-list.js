@@ -276,4 +276,28 @@ let allMusic = [
     img: "โคตรพิเศษ",
     src: "โคตรพิเศษ"
 },
+{
+    name: "รู้แค่ผมรักคุณก็พอ (Je t’aime à la folie)",
+    artist: "Fluke Gawin",
+    img: "รู้แค่ผมรักคุณก็พอ",
+    src: "รู้แค่ผมรักคุณก็พอ"
+},
+{
+    name: "ไม่ไกลหัวใจ (Closer)",
+    artist: "Earth Pirapat & Mix Sahaphap",
+    img: "ไม่ไกลหัวใจ",
+    src: "ไม่ไกลหัวใจ"
+},
+{
+    name: "ข้างๆ",
+    artist: "Louis Thanawin",
+    img: "ข้างๆ",
+    src: "ข้างๆ"
+},
+{
+    name: "คนแบบไหน",
+    artist: "Mix Sahaphap",
+    img: "คนแบบไหน",
+    src: "คนแบบไหน"
+},
 ];
