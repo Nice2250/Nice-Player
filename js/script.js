@@ -13,11 +13,6 @@ moreMusicBtn = wrapper.querySelector("#more-music"),
 closemoreMusic = musicList.querySelector("#close");
 console.log(allMusic.length)
 
-for (i = 0, len = allMusic.length, text = ""; i < len; i++) {
-  text += allMusic[i] + "<br>";
-}
-document.getElementById("Title").innerHTML = "Nice-Player have " + allMusic.length + " Song";
-
 let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
 isMusicPaused = true;
 
@@ -28,6 +23,7 @@ window.addEventListener("load", ()=>{
 
 function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
+  document.getElementById("Title").innerHTML = "Nice Player - " + allMusic[indexNumb - 1].name;
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
   musicImg.src = `images/${allMusic[indexNumb - 1].src}.jpg`;
   mainAudio.src = `songs/${allMusic[indexNumb - 1].src}.mp3`;
