@@ -11,6 +11,7 @@ progressBar = progressArea.querySelector(".progress-bar"),
 musicList = wrapper.querySelector(".music-list"),
 moreMusicBtn = wrapper.querySelector("#more-music"),
 closemoreMusic = musicList.querySelector("#close");
+document.getElementById("Num_song").innerHTML = "Favorite list 9 of " + allMusic.length;
 console.log(allMusic.length)
 
 let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
@@ -24,6 +25,7 @@ window.addEventListener("load", ()=>{
 function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
   document.getElementById("Title").innerHTML = "Nice Player - " + allMusic[indexNumb - 1].name;
+  document.getElementById("Playing").innerHTML = "Now Playing 1 of" + allMusic.length;
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
   musicImg.src = `images/${allMusic[indexNumb - 1].src}.jpg`;
   mainAudio.src = `songs/${allMusic[indexNumb - 1].src}.mp3`;
