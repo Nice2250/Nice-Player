@@ -235,9 +235,9 @@ let allMusic = [
     src: "แล้วแต่ดาว"
 },
 {
-    name: "NOT ME",
-    artist: "KANGSOMKS",
-    img: "NOT ME",
-    src: "NOT ME"
+    name: "เพิ่งรู้ (Never Knew)",
+    artist: "Earth Pirapat & Mix Sahaphap",
+    img: "เพิ่งรู้",
+    src: "เพิ่งรู้"
 },
 ];
